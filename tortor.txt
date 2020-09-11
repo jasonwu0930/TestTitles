@@ -1,4 +1,4 @@
-v2
+v3
 
 Introduction To TortoiseGit
 TortoiseGit is a free open-source client tool for Git-based repositories and manages files along with tracking changes to it.
@@ -14,3 +14,7 @@ In this tutorial, we will focus on the developer activities by cloning the repos
     Push changes back to the repository.
     Comparing branches
     Stash changes
+    
+    
+Basics Of TortoiseGit
+TortoiseGit is installed as a Windows shell extension and can be accessed and invoked from the context menu by right-clicking on the local git repository or a folder.
